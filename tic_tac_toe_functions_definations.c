@@ -18,10 +18,10 @@ int  valid_cell = 0;
 int valid_input = 0;
 
 
-/*function for initailize tic tac toe board */
+// function for initailize tic tac toe board 
 void initializeBoard()
 {
-	/*initailly board is empty, so we need fill the space into 2D array */
+	// initailly board is empty, so we need fill the space into 2D array 
 	for(int row = 0; row < SIZE; row++)
 	{
 		for(int col = 0; col < SIZE; col++)
@@ -165,10 +165,9 @@ int checkDraw()
 	return DRAW; // MACRO
 }
 
-//read the players name
+//read the players names
 void read_players_name()
 {
-	
 	printf("Enter Player1 name : ");
 	scanf("%s", player1);
 	printf("Enetr Player2 name : ");
