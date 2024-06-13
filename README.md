@@ -34,6 +34,7 @@ The Tic-Tac-Toe project is a great way to learn and implement fundamental progra
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 **Instructions to compile and run the program.**
+
 **compile**
  1) C Compiler: GCC (GNU Compiler Collection) is commonly used, to write code in C language.
  2) I wrote the code in different files like
@@ -43,10 +44,10 @@ The Tic-Tac-Toe project is a great way to learn and implement fundamental progra
      d). with help makefile, will execute program.
     
 after downloading all files.
-4) To execute the code use make command on terminal screen
+4) To execute the code use "make" command on terminal screen
 
 **run the program** -->
- To Run the code use ./a.out command on terminal screen  and for deleting executable files and a.out file use make clean command on terminal screen.
+ To Run the code use "./a.out" command on terminal screen  and for deleting executable files and a.out file use "make clean" command on terminal screen.
 
  
 
