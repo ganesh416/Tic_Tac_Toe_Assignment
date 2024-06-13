@@ -7,13 +7,13 @@
 #include <stdio_ext.h>
 
 //MACROS
-
 #define SIZE 3
 #define WIN 1
 #define NOT_WIN 0
 #define DRAW  1
 #define NOT_DRAW 0
 
+//functions prototypes
 void initializeBoard();
 void printBoard();
 void playerMove();
