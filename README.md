@@ -82,6 +82,7 @@ after downloading all files.
 
 
 
+Note: after downloading makefile, in case it convert into .txt file, remove .txt from file name
  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
