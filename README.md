@@ -55,7 +55,7 @@ The Tic-Tac-Toe project is a great way to learn and implement fundamental progra
 
 **compile**
 
- 1) C Compiler: GCC (GNU Compiler Collection) is commonly used, to write code in C language.
+ 1) C Compiler: GCC (GNU Compiler Collection) is used in ubuntu linux system to write code in C language.
     
  2) I wrote the code in different files like
      A). main() function writed in   ---> "Tic_Tac_Toe.c" file.
